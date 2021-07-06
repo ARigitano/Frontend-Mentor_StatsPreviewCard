@@ -1,0 +1,34 @@
+main {
+    background: hsl(233, 47%, 7%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 15px;
+}
+
+.card {
+    background: hsl(244, 38%, 16%);
+    height: 446px;
+    width: 1080px;
+    display: flex;
+}
+
+.column {
+    width: 50%;
+    height: 100%;
+}
+
+.inner {
+    margin: 50px;
+}
+
+.stats {
+    display: flex;
+}
+
+.insights {
+      
+}
+
+  
